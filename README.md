@@ -1,4 +1,4 @@
-# smart-tags-wpforms-meta-users
+# Smart Tags WPforms meta-users Checkout Field Editor (Checkout Manager) for WooCommerce PRO
 Integración de smart tags de wp-form tomando metadatos de usuario de Checkout Field Editor (Checkout Manager) for WooCommerce
 
 Esta biblioteca es una implementacion de los Smart Tags de WPforms + los meta datos de usuarios registrador por el Checkout Field Editor (Checkout Manager) for WooCommerce
