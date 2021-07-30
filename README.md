@@ -5,6 +5,7 @@ Esta biblioteca es una implementacion de los Smart Tags de WPforms + los meta da
 
 Links de Documentación wpforms: https://wpforms.com/developers/how-to-create-a-custom-smart-tag/
 Checkout Field Editor (Checkout Manager) for WooCommerce: https://www.themehigh.com/product/woocommerce-checkout-field-editor-pro/
+
 Guia de ayuda para implementacion de Checkout Field Editor (Checkout Manager) for WooCommerce: 
 
 #### You can retrieve the value of the custom field from the database by using the below function.
